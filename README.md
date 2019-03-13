@@ -16,3 +16,5 @@ March 2003. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 ## Algorithms/Ideas/concept
    - [ ] [1] Spell checker by Norvig, and compare other different approaches
    - [ ] [2] https://towardsdatascience.com/essential-text-correction-process-for-nlp-tasks-f731a025fcc3
+   - [ ] [3] Understand PageRank algorithm, TextRank algorithm, How can we use TextRank algorithm to have a 
+   summarization
