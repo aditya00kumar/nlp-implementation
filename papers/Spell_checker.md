@@ -6,4 +6,5 @@
 
 #### Idea:
 - This paper address this problem without using any manually annotated corpora or dictionary of well defined words whereas it uses web as corpora
+- It uses idea of a noisy channel model of spelling errors that is described in [Kernighan et al., 1990.](http://www.aclweb.org/anthology/C90-2036)
 - 
