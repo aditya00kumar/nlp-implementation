@@ -1,5 +1,5 @@
 # nlp-implementation
-This repo contains implementation of nlp algorithms/papers/concepts to gain better understanding of ideas.
+This repo contains implementation of nlp algorithms/papers/concepts to gain better understanding of ideas and keeping track of papers that need to be read.
 
 -------
 ## Papers
