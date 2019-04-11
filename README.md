@@ -15,6 +15,9 @@ March 2003. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
   - [X] [6] A Spelling Correction Program Based on a Noisy Channel Model. Kernighan et al. 1990
   - [ ] [7] Convolutional Neural Networks for Sentence Classification
   - [ ] [8] An overview of gradient descent optimization algorithms https://arxiv.org/pdf/1609.04747.pdf
+  - [ ] [9] Overview of smoothing in NLP N-gram language models https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
+  - [ ] [10] Kneser–Ney smoothing
+  - [ ] [11] On word embeddings http://ruder.io/word-embeddings-1/index.html
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
