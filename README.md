@@ -18,6 +18,8 @@ March 2003. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
   - [ ] [9] Overview of smoothing in NLP N-gram language models https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
   - [ ] [10] Kneser–Ney smoothing
   - [ ] [11] On word embeddings http://ruder.io/word-embeddings-1/index.html
+  - [ ] [12] Universal Sentence Encoder
+  - [ ] [13] https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
