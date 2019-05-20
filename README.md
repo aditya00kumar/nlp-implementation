@@ -3,10 +3,10 @@ This repo contains implementation of nlp algorithms/papers/concepts to gain bett
 
 -------
 ## Papers
-  - [ ] [1] Yoshua Bengio, Ducharme Rejean &Vincent Pascal. A Neural Probabilistic Language Model. 2001. https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf
+  - [ ] [1] Yoshua Bengio, Ducharme Rejean &Vincent Pascal. [A Neural Probabilistic Language Model. 2001](https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
 
-  - [ ] [2] Yoshua Bengio, Ducharme Rejean, Vincent Pascal & Janvin Christian. A Neural Probabilistic Language Model. 
-March 2003. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+  - [ ] [2] Yoshua Bengio, Ducharme Rejean, Vincent Pascal & Janvin Christian. [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) 
+March 2003. 
 
   - [ ] [3] Collobert Ronan, & Weston Jason. A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning. 2008. https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
 
@@ -15,12 +15,12 @@ March 2003. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
   - [X] [6] A Spelling Correction Program Based on a Noisy Channel Model. Kernighan et al. 1990
   - [ ] [7] Convolutional Neural Networks for Sentence Classification
   - [ ] [8] An overview of gradient descent optimization algorithms https://arxiv.org/pdf/1609.04747.pdf
-  - [ ] [9] Overview of smoothing in NLP N-gram language models https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
+  - [ ] [9] [Overview of smoothing in NLP N-gram language models](https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf)
   - [ ] [10] Kneser–Ney smoothing
   - [ ] [11] On word embeddings http://ruder.io/word-embeddings-1/index.html
-  - [X] [12] Universal Sentence Encoder
-  - [X] [13] Deep Unordered Composition Rivals Syntactic Methods for Text Classification https://people.cs.umass
-  .edu/~miyyer/pubs/2015_acl_dan.pdf
+  - [X] [12] [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
+  - [X] [13] [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf)
+  - [ ] [14] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
