@@ -22,6 +22,7 @@ March 2003.
   - [X] [13] [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf)
   - [ ] [14] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
   - [ ] [15] [A Survey on Deep Learning forNamed Entity Recognition](https://arxiv.org/pdf/1812.09449.pdf)
+  - [ ] [16] [An introduction to domain adaptation and transfer learning](https://arxiv.org/pdf/1812.11806.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
