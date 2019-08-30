@@ -24,6 +24,7 @@ March 2003.
   - [ ] [15] [A Survey on Deep Learning forNamed Entity Recognition](https://arxiv.org/pdf/1812.09449.pdf)
   - [ ] [16] [An introduction to domain adaptation and transfer learning](https://arxiv.org/pdf/1812.11806.pdf)
   - [ ] [17] [Bag of Tricks for Efficient Text Classification](https://aclweb.org/anthology/E17-2068)
+  - [ ] [18] [Star Quality: Aggregating Reviews to Rank Products and Merchants](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36265.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
