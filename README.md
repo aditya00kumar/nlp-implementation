@@ -26,6 +26,7 @@ March 2003.
   - [ ] [17] [Bag of Tricks for Efficient Text Classification](https://aclweb.org/anthology/E17-2068)
   - [ ] [18] [Star Quality: Aggregating Reviews to Rank Products and Merchants](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36265.pdf)
   - [ ] [19] [How to Count Thumb-Ups and Thumb-Downs:User-Rating based Ranking of Items from an Axiomatic Perspective](http://www.dcs.bbk.ac.uk/~dell/publications/dellzhang_ictir2011.pdf)
+  - [ ] [20] [Automatic keyword extraction from individual documents](https://pdfs.semanticscholar.org/5a58/00deb6461b3d022c8465e5286908de9f8d4e.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
