@@ -30,6 +30,7 @@ March 2003.
   - [ ] [21] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)
   - [ ] [22] [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features](https://aclweb.org/anthology/N18-1049)
   - [ ] [23] [The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.3982&rep=rep1&type=pdf)
+  - [ ] [24] [Feedback Control of Real-Time Display Advertising](https://arxiv.org/pdf/1603.01055.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
