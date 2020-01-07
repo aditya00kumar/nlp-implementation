@@ -28,7 +28,7 @@ March 2003.
   - [ ] [19] [How to Count Thumb-Ups and Thumb-Downs:User-Rating based Ranking of Items from an Axiomatic Perspective](http://www.dcs.bbk.ac.uk/~dell/publications/dellzhang_ictir2011.pdf)
   - [X] [20] [Automatic keyword extraction from individual documents](https://pdfs.semanticscholar.org/5a58/00deb6461b3d022c8465e5286908de9f8d4e.pdf)
   - [X] [21] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)
-  - [] [22] [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features](https://aclweb.org/anthology/N18-1049)
+  - [ ] [22] [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features](https://aclweb.org/anthology/N18-1049)
   - [X] [23] [The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.3982&rep=rep1&type=pdf)
   - [ ] [24] [Feedback Control of Real-Time Display Advertising](https://arxiv.org/pdf/1603.01055.pdf)
   - [ ] [25] [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx)
