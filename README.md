@@ -40,8 +40,3 @@ March 2003.
    - [ ] [3] Understand PageRank algorithm, TextRank algorithm, How can we use TextRank algorithm to have a 
    summarization
    - [ ] [4] An overview of optimization methods http://ruder.io/optimizing-gradient-descent/
-
-## Priority
-    - Al4
-    - Al1
-    - Al3
