@@ -33,6 +33,7 @@ March 2003.
   - [ ] [24] [Feedback Control of Real-Time Display Advertising](https://arxiv.org/pdf/1603.01055.pdf)
   - [ ] [25] [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx)
   - [ ] [26] [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
+  - [ ] [27] [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/pdf/1705.02364.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
