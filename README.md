@@ -34,6 +34,7 @@ March 2003.
   - [ ] [25] [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx)
   - [ ] [26] [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
   - [ ] [27] [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/pdf/1705.02364.pdf)
+  - [ ] [28] [An Ensemble-Based Approach to Click-Through Rate Prediction for Promoted Listings at Etsy](https://arxiv.org/pdf/1711.01377.pdf)
 -------
 ## Algorithms/Ideas/concept
    - [X] [1] Spell checker by Norvig, and compare other different approaches
